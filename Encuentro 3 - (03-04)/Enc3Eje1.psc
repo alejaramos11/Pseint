@@ -6,7 +6,7 @@ Algoritmo Enc3Eje1
 	area=base*altura
 	perimetro=2*altura+2*base
 	
-	escribir "el area es: " area 
+	escribir "el area del rectangulo es: " area 
 	Escribir "el perimetro es: " perimetro
 	
 FinAlgoritmo
